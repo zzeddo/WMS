@@ -1,4 +1,4 @@
-# WMS
+# 창고운영시스템
 Spring Framework 기반의 창고 관리 시스템
 
 # 개발환경
